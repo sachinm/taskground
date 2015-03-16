@@ -33,8 +33,8 @@ var plans =  {
  */
 
 var mandrillSettings = {
-  'username': '',
-  'password': ''
+  'username': 'noreply@taskground.com',
+  'password': 't45K6r0Un9'
 }
 
 /**
